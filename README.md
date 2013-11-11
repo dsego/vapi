@@ -1,4 +1,5 @@
-vapi
-====
+Some Vala library bindings 
 
-Some Vala library bindings (available on https://github.com/nemequ/vala-extra-vapis)
+These are also included in the [vala-extra-vapis](https://github.com/nemequ/vala-extra-vapis) repo, so get them from there.
+
+
